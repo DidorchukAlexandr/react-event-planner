@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20330.jpg",
+    "title": "Galery Opening",
+    "priority": "High",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Art",
+    "text": "Discover an enchanting evening celebrating the world of art at our exclusive gallery opening."
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20344.jpg",
+    "title": "Innovation Summit",
+    "priority": "Medium",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Conference",
+    "text": "Engage in a thought-provoking journey of knowledge and collaboration at our Innovation Summit. "
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20345.jpg",
+    "ttitle": "Empower Your Creativity",
+    "priority": "High",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Workshop",
+    "text": "Ignite your creativity and nurture your storytelling skills in our immersive Creative Writing Workshop. "
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20346.jpg",
+    "title": "Summer Soiree",
+    "priority": "High",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Party",
+    "text": "Embrace the tropical vibes and escape to paradise at our Beach Luau Extravaganza."
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20347.jpg",
+    "title": "Leadership Conference",
+    "priority": "Medium",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Business",
+    "text": "Unlock the secrets of effective leadership at our transformative Success Leadership Conference."
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20348.jpg",
+    "title": "Tech Startup Showcase",
+    "priority": "Low",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Workshop",
+    "text": "Witness the future of technology as innovative startups showcase their groundbreaking ideas."
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20349.jpg",
+    "title": "Acoustic Garden Concert",
+    "priority": "High",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Music",
+    "text": "Experience the magic of live music amidst the serene beauty of nature at our Acoustic Garden Concert."
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20350.jpg",
+    "title": "Extreme Adventure Race",
+    "priority": "Low",
+    "date": "12.07 at 12:00",
+    "location": "Kyiv",
+    "category": "Sport",
+    "text": "Calling all thrill-seekers! Embark on an adrenaline-pumping journey at our Extreme Adventure Race."
+  }
+  
+]
