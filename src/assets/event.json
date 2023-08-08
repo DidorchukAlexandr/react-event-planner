@@ -1,7 +1,8 @@
-[
+{
+  "eventcard": [
   {
     "id": 0,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20330.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20330.jpg",
     "title": "Galery Opening",
     "priority": "High",
     "date": "12.07 at 12:00",
@@ -11,7 +12,7 @@
   },
   {
     "id": 1,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20344.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20344.jpg",
     "title": "Innovation Summit",
     "priority": "Medium",
     "date": "12.07 at 12:00",
@@ -21,7 +22,7 @@
   },
   {
     "id": 2,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20345.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20345.jpg",
     "ttitle": "Empower Your Creativity",
     "priority": "High",
     "date": "12.07 at 12:00",
@@ -31,7 +32,7 @@
   },
   {
     "id": 3,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20346.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20346.jpg",
     "title": "Summer Soiree",
     "priority": "High",
     "date": "12.07 at 12:00",
@@ -41,7 +42,7 @@
   },
   {
     "id": 4,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20347.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20347.jpg",
     "title": "Leadership Conference",
     "priority": "Medium",
     "date": "12.07 at 12:00",
@@ -51,7 +52,7 @@
   },
   {
     "id": 5,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20348.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20348.jpg",
     "title": "Tech Startup Showcase",
     "priority": "Low",
     "date": "12.07 at 12:00",
@@ -61,7 +62,7 @@
   },
   {
     "id": 6,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20349.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20349.jpg",
     "title": "Acoustic Garden Concert",
     "priority": "High",
     "date": "12.07 at 12:00",
@@ -71,7 +72,7 @@
   },
   {
     "id": 7,
-    "imageUrl": "https://github.com/DidorchukAlexandr/Projects/blob/main/event/event-planner/src/assets/img/Rectangle%20350.jpg",
+    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20350.jpg",
     "title": "Extreme Adventure Race",
     "priority": "Low",
     "date": "12.07 at 12:00",
@@ -81,3 +82,4 @@
   }
   
 ]
+}

@@ -1,7 +1,6 @@
 // import { createContext, useState } from "react";
 import { GlobalStyle } from "./GlobalStyles";
 import Header from "./Header/Header";
-
 // export const SearchContext = createContext();
 
 function App() {
@@ -10,6 +9,7 @@ function App() {
   return (
     <div>
       <Header />
+
       <GlobalStyle />
     </div>
   );

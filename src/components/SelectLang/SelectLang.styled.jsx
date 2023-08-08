@@ -6,7 +6,7 @@ export const Wr = styled.div`
 
 export const Span = styled.span`
     display: inline-block;
-        background-color: FFFFFF;
+        background-color: #FFFFFF;
         border-radius: 10px;
         padding: 12px 12px;
         min-width: 69px;
@@ -32,13 +32,14 @@ export const Span = styled.span`
 export const Sort = styled.div`
 /* display: inline-block; */
  margin-left: 20px;
-        background-color: FFFFFF;
+        background-color: #FFFFFF;
         border-radius: 10px;
         padding: 10px 12px;
         min-width: 69px;
         height: 68px;
         text-align: center;
         font-weight: 500;
+      ;
     border: 0;
     box-shadow: 2px 4px 9px 0px #A68DAE47;
     position: absolute;

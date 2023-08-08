@@ -3,10 +3,11 @@ import styled from 'styled-components';
 export const Head = styled.div`
 display: flex;
   background-color: #fefcff;
-  padding: 30px 16px;
+  padding: 25px 16px;
   width: 100vw;
-  /* flex-direction: column;
-  align-items: center; */
+  
+  flex-direction: column;
+  align-items: center;
   align-items: center;
    /* justify-content: space-between; */
   flex-wrap: wrap;
@@ -15,6 +16,7 @@ display: flex;
     display: block;
     justify-content: space-between;
     flex-wrap: wrap-reverse;
+    height: 100px;
     width: 100vw;
   }
 `;
@@ -25,6 +27,14 @@ export const Logo = styled.p`
     font-size: 24px;
     color: #7B61FF;
     margin-right: auto;
+    cursor: pointer;
+    &:hover,
+    &:focus {
+        
+font-size: 25px;
+color: #745fdf;
+transition: all 0.3s linear, opacity 0.3s ease-in-out;
+    }
 `;
 
 export const Wraper = styled.div`
