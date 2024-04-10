@@ -2,12 +2,13 @@ import styled from 'styled-components';
 
 export const ImageEvent = styled.img`
     display: block;
-    max-width: 272px;
-    height: 296px;
+    width: 272px;
+    height: 336px;
     position: relative;
     border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border: none;
+  object-fit: cover;
 
   @media screen and (min-width: 768px) {
     width: 332px;
@@ -22,7 +23,7 @@ export const WrapCategory = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: absolute;
+    /* position: absolute; */
     top: 12px;
     left: 12px;
 
@@ -58,7 +59,7 @@ font-size: 14px;
 `;
 
 export const WrapDate = styled.div`
-position: absolute;
+/* position: absolute; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -74,6 +75,12 @@ position: absolute;
   height: 40px;
   padding: 10px;
   background-color: rgba(255, 255, 255, 0.8);
+  @media screen and (min-width: 768px) {
+    bottom: 104px;
+  }
+  @media screen and (min-width: 1280px) {
+    bottom: 104px;
+  }
 `;
 
 export const DateEvent = styled.p`
@@ -108,4 +115,34 @@ export const TextEvent = styled.p`
   overflow: hidden;
   margin-top:15px;
   color: #49454f;
+`;
+
+export const List = styled.ul`
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
+  grid-gap: 16px;
+  grid-column-gap: 0px;
+margin-top: 50px;
+margin-bottom: 50px;
+padding: 0;
+list-style: none;
+margin-left: auto;
+margin-right: auto;
+
+@media screen and (min-width: 768px) {
+  width: 768px;
+  grid-template-columns: repeat(auto-fill, minmax(272px, 1fr));
+
+}
+
+@media screen and (min-width: 1280px) {
+  width: 1280px;
+}
+
+`;
+
+export const ListItem = styled.ul`
+  
+
 `;

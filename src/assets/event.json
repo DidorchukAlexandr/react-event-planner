@@ -1,8 +1,8 @@
-{
-  "eventcard": [
+
+ [
   {
     "id": 0,
-    "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20330.jpg",
+    "imageUrl": "./img/Rectangle 330.jpg",
     "title": "Galery Opening",
     "priority": "High",
     "date": "12.07 at 12:00",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "imageUrl": "https://github.com/DidorchukAlexandr/react-event-planner/blob/6aeab3b59df8e0810c0101e4fecbde96ab903b65/src/assets/img/Rectangle%20345.jpg",
-    "ttitle": "Empower Your Creativity",
+    "title": "Empower Your Creativity",
     "priority": "High",
     "date": "12.07 at 12:00",
     "location": "Kyiv",
@@ -82,4 +82,3 @@
   }
   
 ]
-}
